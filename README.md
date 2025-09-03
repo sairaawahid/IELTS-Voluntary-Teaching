@@ -1,4 +1,4 @@
-# Welcome to the 7 am-IELTS-Preparation-iCodeGuru
+# Welcome to the 7AM-IELTS-Preparation-iCodeGuru
 
 **Here, You'll Find:**
 
