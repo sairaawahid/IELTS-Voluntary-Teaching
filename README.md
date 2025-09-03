@@ -1,13 +1,13 @@
-# Welcome to the 7am-IELTS-Preparation-iCodeGuru
+# Welcome to the 7 am-IELTS-Preparation-iCodeGuru
 
 **Here, You'll Find:**
 
-**Tutorials:** Links to tutorials which can be utilized incase you want to see my teaching methodology
+**Tutorials:** Links to tutorials that can be utilized in case you want to see my teaching methodology
 
 **Roadmap:** [Click here](https://docs.google.com/document/d/1KuRUsrp1SDTLdA43-7bw3VnYlxsAxbG6rDmEQsEeuGI/edit?usp=sharing)
 
-**Beginner Friendly IELTS Lectures** This session is designed for absolute beginners helping them kicksatrt their IELTS journey. We will 
- cover major concepts along with practical implementation of each module.
+**Beginner Friendly IELTS Lectures** This session is designed for absolute beginners, helping them kickstart their IELTS journey. We will 
+ cover major concepts along with the practical implementation of each module.
 
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
