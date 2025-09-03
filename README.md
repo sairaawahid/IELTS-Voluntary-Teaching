@@ -78,27 +78,15 @@ Multiple Choice Questions Tips & Practice"
     </tr>
       <tr>
     <td align="center"><b>02</b></td>
-    <td align="center"><b>Introduction to Arrays</b></td>
-    <td align="center"><a href="https://fb.watch/sWvyjKVSQ3/">Array Data Structure</td>
-    <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td  
+    <td align="center"><b>Multiple Choice + Map Questions Tips & Practice</b></td>
+    <td align="center"><a href="https://www.facebook.com/watch/?v=754206800585575&rdid=pUibo62p5eNn7L8A">Array Data Structure</td>
+    <td align="center" ><a href="https://ieltsliz.com/ielts-listening/">Mammoths + Dashford Study Center + The Taj Mahal</td  
   </tr>  
   <tr>
        <td align="center"><b>03</b></td>
-       <td align="center"><b>Leetcode 1512 - No. of Good Pairs</b></td>
-       <td align="center"><a href="https://fb.watch/sXMiJ8klRh/">Tutorial </td>
-      <td align="center" ><a href="https://leetcode.com/problems/number-of-good-pairs/">Leetcode 1512 - No. of Good Pairs</td>
-    </tr>
-    <tr>
-       <td align="center"><b>04</b></td>
-       <td align="center"><b>Leetcode 1732 - Highest Altitude </b></td>
-       <td align="center"><a href="https://fb.watch/sZh2Z8UBYM/"> Tutorial </td>
-      <td align="center" ><a href="https://leetcode.com/problems/find-the-highest-altitude/">Leetcode 1732 - Highest Altitude</td>
-    </tr>
-    <tr>
-       <td align="center"><b>05</b></td>
-       <td align="center"><b>Leetcode 217 - Contains Duplicate Leetcode 1470 - Shuffle Shuffle the Array" </b></td>
-       <td align="center"><a href="https://fb.watch/s_oird-UF3/"> Tutorial </td>
-        <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate </br><a href="https://leetcode.com/problems/shuffle-the-array/">1470. Shuffle the Array </td>
+       <td align="center"><b>Table Completion + Short Question Answers</b></td>
+       <td align="center"><a href="https://www.facebook.com/watch/?v=1313246323734371&rdid=1rtUjLw5XDciKVde">Tutorial </td>
+      <td align="center" ><a href="https://ieltsliz.com/ielts-listening/">Introduced species of the British Isles + London Attractions + Dashwood Sports Center + Superbugs</td>
     </tr>
 </tbody>
 <table>
