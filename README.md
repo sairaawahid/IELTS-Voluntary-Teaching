@@ -63,6 +63,6 @@ Multiple Choice Questions Tips & Practice
 |------|-------|------------------------|--------------------|
 | **01** | Introduction to IELTS Speaking Module| [Speaking Module]() | []() |
 | **02** |   | [Speaking Module]() | []()|
-| **03** |  | [Speaking Module]() | [) |
+| **03** |  | [Speaking Module]() | []() |
 
 </table>
