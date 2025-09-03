@@ -73,8 +73,8 @@
        <td align="center"><b>"Introduction to IELTS & Listening Module
 Multiple Choice Questions Tips & Practice"
 </b></td>
-       <td align="center"><a href="[https://fb.watch/sWvOxyHnPe/](https://www.facebook.com/watch/?v=1698416964120705&rdid=nsZgrkgMPwaqkfXP)">Listening Module</td>
-    <td align="center" ><a href="[https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing](https://ieltsliz.com/ielts-listening/)">IELTS Liz</td>
+       <td align="center"><a href="https://www.facebook.com/watch/?v=1698416964120705&rdid=nsZgrkgMPwaqkfXP">Listening Module</td>
+    <td align="center" ><a href="https://ieltsliz.com/ielts-listening/">IELTS Liz</td>
     </tr>
       <tr>
     <td align="center"><b>02</b></td>
