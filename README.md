@@ -4,7 +4,7 @@
 
 **Tutorials:** Links to tutorials which can be utilized incase you want to see my teaching methodology
 
-**Roadmap:** [Click here]([https://docs.google.com/document/d/1XdFS0ckZEp2Mi16ihCmVXggUelXf58EqPT5sV2wcxs0/edit#heading=h.opqh54m3nahp](https://docs.google.com/document/d/1KuRUsrp1SDTLdA43-7bw3VnYlxsAxbG6rDmEQsEeuGI/edit?usp=sharing))
+**Roadmap:** [Click here](https://docs.google.com/document/d/1KuRUsrp1SDTLdA43-7bw3VnYlxsAxbG6rDmEQsEeuGI/edit?usp=sharing)
 
 **Beginner Friendly IELTS Lectures** This session is designed for absolute beginners helping them kicksatrt their IELTS journey. We will 
  cover major concepts along with practical implementation of each module.
