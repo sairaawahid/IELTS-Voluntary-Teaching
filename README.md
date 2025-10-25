@@ -44,6 +44,12 @@ Multiple Choice Questions Tips & Practice
 </tbody>
 <table>
 
+| Days | Topic | Video Links (Facebook) | Material/Questions |
+|------|-------|------------------------|--------------------|
+| **01** | Introduction to IELTS & Listening Module <br> Multiple Choice Questions Tips & Practice| [Listening Module](https://www.facebook.com/watch/?v=25163512359904508&rdid=13HpFAI19ISxYv2J) | [IELTS Liz](https://ieltsliz.com/ielts-listening/)|
+| **02** | Multiple Choice + Map Questions Tips & Practice  | [Listening Module](https://www.facebook.com/watch/?v=754206800585575&rdid=pUibo62p5eNn7L8A) | [Mammoths](https://ieltsliz.com/ielts-listening-multiple-choice-essential-tips/) <br> [Dashford Study Center](https://ieltsliz.com/ielts-listening-multiple-choice-essential-tips/) <br> [The Taj Mahal](https://ieltsliz.com/ielts-map-listening-practice/) |
+| **03** | Table Completion + Short Question Answers | [Listening Module](https://www.facebook.com/watch/?v=1313246323734371&rdid=1rtUjLw5XDciKVde) | [Introduced species of the British Isles + London Attractions](https://ieltsliz.com/ielts-listening-practice-tables/) <br> [Dashwood Sports Center + Superbugs](https://ieltsliz.com/ielts-listening-practice-lesson/) |
+
 # Week 02
 
 | Days | Topic | Video Links (Facebook) | Material/Questions |
