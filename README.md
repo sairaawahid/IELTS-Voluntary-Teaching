@@ -46,35 +46,6 @@ Multiple Choice Questions Tips & Practice
 
 # Week 02
 
-<table>
-    <tbody>
-     <tr>
-      <th>Days</th>
-      <th>Topic</th>
-      <th>Video Links (Facebook)</br></th>
-      <th>Material/Questions</th>
-     </tr> 
-    <tr>
-       <td align="center"><b>01</b></td>
-       <td align="center"><b>Introduction to IELTS & Listening Module Multiple Choice Questions Tips & Practice</b></td>
-       <td align="center"><a href="https://www.facebook.com/watch/?v=1698416964120705&rdid=nsZgrkgMPwaqkfXP">Listening Module</td>
-       <td align="center"><a href="https://ieltsliz.com/ielts-listening/">IELTS Liz</td>
-    </tr>
-      <tr>
-    <td align="center"><b>02</b></td>
-    <td align="center"><b>Multiple Choice + Map Questions Tips & Practice</b></td>
-    <td align="center"><a href="https://www.facebook.com/watch/?v=754206800585575&rdid=pUibo62p5eNn7L8A">Listening Module</td>
-    <td align="center" ><a href="https://ieltsliz.com/ielts-listening/">Mammoths + Dashford Study Center + The Taj Mahal</td  
-  </tr>  
-  <tr>
-       <td align="center"><b>03</b></td>
-       <td align="center"><b>Table Completion + Short Question Answers</b></td>
-       <td align="center"><a href="https://www.facebook.com/watch/?v=1313246323734371&rdid=1rtUjLw5XDciKVde">Listening Module</td>
-      <td align="center" ><a href="https://ieltsliz.com/ielts-listening/">Introduced species of the British Isles + London Attractions + Dashwood Sports Center + Superbugs</td>
-    </tr>
-</tbody>
-<table>
-
 | Days | Topic | Video Links (Facebook) | Material/Questions |
 |------|-------|------------------------|--------------------|
 | **01** | Introduction to IELTS Reading Module| [Reading Module](https://www.facebook.com/watch/?v=25163512359904508&rdid=13HpFAI19ISxYv2J) | [The coral reefs of Agatti Island](https://elt.oup.com/elt/students/ielts/pdf/exams_ielts_mc_pt_read01.pdf?cc=gb&selLanguage=en) [IELTS Liz](https://ieltsliz.com/ielts-reading-lessons-information-and-tips/)|
