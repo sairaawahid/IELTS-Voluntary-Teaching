@@ -85,7 +85,7 @@ Each week of the course focused on one IELTS module. The teaching approach follo
   
 ---
 
-## Note: This course was designed and taught in collaboration with my co-trainer [Saira](https://github.com/Samiya-AW).
+## Note: This course was designed and taught in collaboration with my co-trainer [Samiya](https://github.com/Samiya-AW).
 
 Find the remaining course material and videos on my co-trainer, [Samiya's repository page](https://github.com/Samiya-AW/Voluntary-IELTS-Teaching?tab=readme-ov-file):
 
