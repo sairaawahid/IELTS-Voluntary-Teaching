@@ -8,6 +8,12 @@ The course was designed to guide learners through each IELTS module — **Listen
 
 To provide accessible and structured IELTS preparation resources for learners at all levels, while demonstrating my teaching methodology to prospective institutions and collaborators.
 
+**Tutorials:** Links to tutorials that can be utilized in case you want to see my teaching methodology
+
+**Roadmap:** [Click here](https://docs.google.com/document/d/1KuRUsrp1SDTLdA43-7bw3VnYlxsAxbG6rDmEQsEeuGI/edit?usp=sharing)
+
+**Beginner Friendly IELTS Lectures:** This session is designed for absolute beginners, helping them kickstart their IELTS journey. We covered major concepts along with the practical implementation of each module.
+
 ---
 
 ## Course Structure
@@ -19,12 +25,6 @@ Each week of the course focused on one IELTS module. The teaching approach follo
 - Identifying common question types
 - Learning key strategies and techniques
 - Ending the week with full practice test simulations
-
-**Tutorials:** Links to tutorials that can be utilized in case you want to see my teaching methodology
-
-**Roadmap:** [Click here](https://docs.google.com/document/d/1KuRUsrp1SDTLdA43-7bw3VnYlxsAxbG6rDmEQsEeuGI/edit?usp=sharing)
-
-**Beginner Friendly IELTS Lectures:** This session is designed for absolute beginners, helping them kickstart their IELTS journey. We covered major concepts along with the practical implementation of each module.
 
 ## Week 1 – Listening
 **Focus:**
