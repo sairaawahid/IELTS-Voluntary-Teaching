@@ -38,8 +38,8 @@
 
 | Days | Topic | Video Links (Facebook) | Material/Questions |
 |------|-------|------------------------|--------------------|
-| **01** | Introduction to IELTS Speaking Module| [Speaking Module]() | []() |
-| **02** |   | [Speaking Module]() | []()|
-| **03** |  | [Speaking Module]() | []() |
+| **01** | IELTS Speaking Module Part 1 Practice | [Speaking Module](https://www.facebook.com/watch/?v=1144820490881324&rdid=KqdNgJoGoPMRf01H) | [IELTS Liz](https://ieltsliz.com/ielts-speaking-part-1-topics/) |
+| **02** | IELTS Speaking Module Part 3 Practice | [Speaking Module](https://www.facebook.com/watch/?v=888568403496407&rdid=cD90YgOeUQ7izwuZ) | [IELTS Liz](https://ieltsliz.com/ielts-speaking-part-3-topics-2/)|
+| **03** | IELTS Speaking Module Mock Test | [Speaking Module](https://www.facebook.com/watch/?v=1869231967361574&rdid=9xNovwrwwqgCEeea) | [Cambridge IELTS 18 Academic](https://www.jumpinto.com/ielts/practice/academic/18/1/speaking/1) <br> [Cambridge Official Guide](https://www.jumpinto.com/ielts/practice/academic/og/1/speaking/1) |
 
 </table>
