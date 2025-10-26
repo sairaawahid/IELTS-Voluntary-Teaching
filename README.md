@@ -4,9 +4,7 @@
 My **4-week IELTS Preparation Course**, which I conducted as a volunteer instructor.
 The course was designed to guide learners through each IELTS module — **Listening, Reading, Writing, and Speaking** — with structured lessons, practice tests and strategies to achieve higher band scores.
 
-**Purpose:**
-
-To provide accessible and structured IELTS preparation resources for learners at all levels, while demonstrating my teaching methodology to prospective institutions and collaborators.
+**Purpose:** To provide accessible and structured IELTS preparation resources for learners at all levels, while demonstrating my teaching methodology to prospective institutions and collaborators.
 
 **Tutorials:** Links to tutorials that can be utilized in case you want to see my teaching methodology
 
