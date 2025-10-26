@@ -26,8 +26,6 @@ Each week of the course focused on one IELTS module. The teaching approach follo
 
 **Beginner Friendly IELTS Lectures:** This session is designed for absolute beginners, helping them kickstart their IELTS journey. We covered major concepts along with the practical implementation of each module.
 
-**Join Our Community on [iCodeGuru](https://icode.guru/join/)**
-
 ## Week 1 – Listening
 **Focus:**
 
