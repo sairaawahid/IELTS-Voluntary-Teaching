@@ -1,8 +1,15 @@
 # Welcome to the 7AM-IELTS-Preparation-iCodeGuru
-This repository documents my **4-week IELTS Preparation Course**, which I conducted as a volunteer instructor.
+**This repository documents:**
+My **4-week IELTS Preparation Course**, which I conducted as a volunteer instructor.
 The course was designed to guide learners through each IELTS module — **Listening, Reading, Writing, and Speaking** — with structured lessons, practice tests and strategies to achieve higher band scores.
 
-**Here, You'll Find:**
+**Purpose:**
+To provide accessible and structured IELTS preparation resources for learners at all levels, while demonstrating my teaching methodology to prospective institutions and collaborators.
+
+---
+
+**Course Structure**
+The IELTS Preparation Course is designed to build English proficiency and test-taking confidence step-by-step. It follows a skill-based modular structure aligned with the IELTS Academic test format.
 
 **Tutorials:** Links to tutorials that can be utilized in case you want to see my teaching methodology
 
