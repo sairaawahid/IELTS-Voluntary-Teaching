@@ -6,7 +6,7 @@ The course was designed to guide learners through each IELTS module — **Listen
 
 **Purpose:** To provide accessible and structured IELTS preparation resources for learners at all levels, while demonstrating my teaching methodology to prospective institutions and collaborators.
 
-**Tutorials:** Links to tutorials that can be utilized in case you want to see my teaching methodology
+**Tutorials:** Links to tutorials that can be utilized in case you want to see my teaching methodology.
 
 **Roadmap:** [Click here](https://docs.google.com/document/d/1KuRUsrp1SDTLdA43-7bw3VnYlxsAxbG6rDmEQsEeuGI/edit?usp=sharing)
 
