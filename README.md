@@ -13,6 +13,13 @@ To provide accessible and structured IELTS preparation resources for learners at
 ## Course Structure
 The IELTS Preparation Course is designed to build English proficiency and test-taking confidence step-by-step. It follows a skill-based modular structure aligned with the IELTS Academic test format.
 
+Each week of the course focused on one IELTS module. The teaching approach followed a consistent structure:
+- Introduction to the module and its purpose
+- Understanding what skills are assessed
+- Identifying common question types
+- Learning key strategies and techniques
+- Ending the week with full practice test simulations
+
 **Tutorials:** Links to tutorials that can be utilized in case you want to see my teaching methodology
 
 **Roadmap:** [Click here](https://docs.google.com/document/d/1KuRUsrp1SDTLdA43-7bw3VnYlxsAxbG6rDmEQsEeuGI/edit?usp=sharing)
@@ -21,7 +28,10 @@ The IELTS Preparation Course is designed to build English proficiency and test-t
 
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
-# Week 1 – Listening
+## Week 1 – Listening
+**Focus:**
+
+Develop active listening skills to identify keywords, paraphrased information, and contextual clues across different audio settings.
 
 | Days | Topic | Video Links (Facebook) | Material/Questions |
 |------|-------|------------------------|--------------------|
@@ -29,7 +39,13 @@ The IELTS Preparation Course is designed to build English proficiency and test-t
 | **02** | Multiple Choice + Map Questions Tips & Practice  | [Listening Module](https://www.facebook.com/watch/?v=754206800585575&rdid=pUibo62p5eNn7L8A) | [Mammoths + Dashford Study Center](https://ieltsliz.com/ielts-listening-multiple-choice-essential-tips/) <br> [The Taj Mahal](https://ieltsliz.com/ielts-map-listening-practice/) |
 | **03** | Table Completion + Short Question Answers | [Listening Module](https://www.facebook.com/watch/?v=1313246323734371&rdid=1rtUjLw5XDciKVde) | [Introduced species of the British Isles + London Attractions](https://ieltsliz.com/ielts-listening-practice-tables/) <br> [Dashwood Sports Center + Superbugs](https://ieltsliz.com/ielts-listening-practice-lesson/) |
 
-# Week 2 – Reading
+**Key Learning Outcomes:**
+- Understand question types (Form Completion, Multiple Choice, Map/Diagram Labelling, etc.)
+- Improve prediction and note-taking skills
+- Learn to recognize synonyms and distractors
+- Manage time effectively during the Listening test.
+
+## Week 2 – Reading
 
 | Days | Topic | Video Links (Facebook) | Material/Questions |
 |------|-------|------------------------|--------------------|
@@ -37,14 +53,14 @@ The IELTS Preparation Course is designed to build English proficiency and test-t
 | **02** | Multipe Choice Question Tips & Practice  | [Reading Module](https://www.facebook.com/watch/?v=719246801144560&ref=sharing) | [All About Rice + GM Foods](https://ieltsliz.com/ielts-reading-multiple-choice/) <br> [The coral reefs of Agatti Island](https://elt.oup.com/elt/students/ielts/pdf/exams_ielts_mc_pt_read01.pdf?cc=gb&selLanguage=en)|
 | **03** | IELTS Reading Test Practice | [Reading Module](https://www.facebook.com/watch/?v=1407339197024993&rdid=GBKM9e95q1Gd4Jh6) | [Cambridge IELTS 20 Academic 2025](https://www.jumpinto.com/ielts/practice/academic/20/1/reading/1) |
 
-# Week 3 – Writing
+## Week 3 – Writing
 
 | Days | Topic | Video Links (Facebook) | Material/Questions |
 |------|-------|------------------------|--------------------|
 | **01** | Introduction to Writing Task 2: Essay Types & Structure | [Writing Module Video Part 1](https://www.facebook.com/watch/?v=1509454740055845&rdid=7WeeIkpHLQmvrcaN) <br> [Writing Module Video Part 2](https://www.facebook.com/watch/?v=658375480632790&rdid=K5hwADS7FgilqNAv) | [IELTS Liz](https://ieltsliz.com/ielts-writing-task-2/) |
 | **02** | IELTS Writing Task 2 Practice | [Writing Module](https://www.facebook.com/watch/?v=1716327072375758&rdid=adsau89BjKrPPWKF) | [Cambridge IELTS 20 Academic](https://www.jumpinto.com/ielts/practice/academic/20/2/writing/2)|
 
-# Week 4 – Speaking
+## Week 4 – Speaking
 
 | Days | Topic | Video Links (Facebook) | Material/Questions |
 |------|-------|------------------------|--------------------|
