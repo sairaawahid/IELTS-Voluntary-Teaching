@@ -1,4 +1,6 @@
 # Welcome to the 7AM-IELTS-Preparation-iCodeGuru
+This repository documents my **4-week IELTS Preparation Course**, which I conducted as a volunteer instructor.
+The course was designed to guide learners through each IELTS module — **Listening, Reading, Writing, and Speaking** — with structured lessons, practice tests and strategies to achieve higher band scores.
 
 **Here, You'll Find:**
 
@@ -6,8 +8,7 @@
 
 **Roadmap:** [Click here](https://docs.google.com/document/d/1KuRUsrp1SDTLdA43-7bw3VnYlxsAxbG6rDmEQsEeuGI/edit?usp=sharing)
 
-**Beginner Friendly IELTS Lectures** This session is designed for absolute beginners, helping them kickstart their IELTS journey. We will 
- cover major concepts along with the practical implementation of each module.
+**Beginner Friendly IELTS Lectures:** This session is designed for absolute beginners, helping them kickstart their IELTS journey. We covered major concepts along with the practical implementation of each module.
 
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
