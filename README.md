@@ -31,8 +31,8 @@
 
 | Days | Topic | Video Links (Facebook) | Material/Questions |
 |------|-------|------------------------|--------------------|
-| **01** | Introduction to IELTS Writing Module | [Writing Module Video Part 1](https://www.facebook.com/watch/?v=1509454740055845&rdid=7WeeIkpHLQmvrcaN) [Writing Module Video Part 2](https://www.facebook.com/watch/?v=658375480632790&rdid=K5hwADS7FgilqNAv) | [Writing Task 2: Essay Types & Structure](https://ieltsliz.com/ielts-writing-task-2/) |
-| **02** | Multipe Choice Question Tips & Practice  | [Writing Module]() | [Writing Module Test Practice]()|
+| **01** | Introduction to Writing Task 2: Essay Types & Structure | [Writing Module Video Part 1](https://www.facebook.com/watch/?v=1509454740055845&rdid=7WeeIkpHLQmvrcaN) <br> [Writing Module Video Part 2](https://www.facebook.com/watch/?v=658375480632790&rdid=K5hwADS7FgilqNAv) | [IELTS Liz](https://ieltsliz.com/ielts-writing-task-2/) |
+| **02** | IELTS Writing Task 2 Practice | [Writing Module](https://www.facebook.com/watch/?v=1716327072375758&rdid=adsau89BjKrPPWKF) | [Cambridge IELTS 20 Academic](https://www.jumpinto.com/ielts/practice/academic/20/2/writing/2)|
 
 # Week 04
 
