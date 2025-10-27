@@ -90,3 +90,7 @@ Each week of the course focused on one IELTS module. The teaching approach follo
 Find the remaining course material and videos on my co-trainer, [Samiya's repository page](https://github.com/Samiya-AW/Voluntary-IELTS-Teaching?tab=readme-ov-file):
 
 Feel free to explore the sessions and share them with anyone preparing for IELTS!
+
+---
+👉 Also check out my [LinkedIn post](https://www.linkedin.com/posts/sairaabdulwahid_ielts-volunteerteaching-ieltsspeaking-activity-7372280184663683073-7JVJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPUvmIB1owGWYvKeEyHqZspUdRFFwCDerc) on **helpful tips & strategies for the IELTS Speaking module**
+ for additional guidance and practice ideas.
